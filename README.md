@@ -7,7 +7,7 @@ This project is a simplified airline booking system built using Django and Djang
 Features
 - CRUD operations for Flights and Passengers.
 - Relationship: A Passenger is associated with exactly one Flight; a Flight can have multiple Passengers.
-- Built-in validation for unique fields (e.g., `flight_number`, `email`).
+- Built-in validation for unique fields 
 
 Prerequisites
 - Python 3.8+
@@ -16,7 +16,6 @@ Prerequisites
 
 how to set up and run the project
 1. Clone the repository:
-   ```bash
    git clone https://github.com/your-username/airline_booking_165915.git
    cd airline_booking_165915
    Create a virtual environment:
